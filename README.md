@@ -1,16 +1,26 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**jeffersonbergman/jeffersonbergman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Jefferson 🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: I'm .NET Developer!
+
+:house_with_garden: I'm from Brazil but I live in Portugal.
+
+:books: Currently, I am dedicating myself to providing services as a freelancer, offering customized solutions for
+my clients.
+I acquired a solid set of skills in several technologies related to the .NET ecosystem such
+as C#, ASP.NET, Entity Framework etc... I have experience with the SQL language and solid
+knowledge in project management.I
+
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeffersonbergman/)](https://github.com/jeffersonbergman/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffersonbergman/)](https://www.linkedin.com/in/jeffersonbergman/)
+
+
+- Thanks for visiting.
+
+
