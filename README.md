@@ -3,15 +3,11 @@
 
 ## Hi, I'm Jefferson 🙋‍♂️
 
-:computer: I'm .NET Developer!
+:computer: I'm Software Developer | Full-Stack | Angular | .NET !
 
 :house_with_garden: I'm from Brazil but I live in Portugal.
 
-:books: Currently, I am dedicating myself to providing services as a freelancer, offering customized solutions for
-my clients.
-I acquired a solid set of skills in several technologies related to the .NET ecosystem such
-as C#, ASP.NET, Entity Framework etc... I have experience with the SQL language and solid
-knowledge in project management.I
+:books: I am a seasoned software developer with a strong background in the technology industry. My current focus revolves around crafting full-stack applications, employing key development tools like Angular, C#, and Asp.net. With substantial expertise in SQL, I bring a solid foundation in database management to my work. Additionally, my proficiency extends to project management, where I leverage my skills to ensure successful and efficient project execution.
 
 
 ## About me
